@@ -1,2 +1,3 @@
 # Farmer-Suicide
-This will show the trend of farmer suicides in India and we try to predict the future rates by the help of machine learning.
+This iPython notebook uses machine learning to predict the future farmer suicide rates and discusses about the causes for the suicide and solutions to prevent it.
+This project was done in colaboration with @harshakhubwani .
